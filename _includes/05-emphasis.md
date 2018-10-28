@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Software Skills*
+
+_Languages_
+
+**C/C++**
+
+__Phyton, Embedded C__
+
+_Experience with **Real time systems** along with lab experience_ 
